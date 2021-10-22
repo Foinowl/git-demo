@@ -1,2 +1,3 @@
 new line 12
 new line 123
+Rabbit.prototype.jumps = true;
